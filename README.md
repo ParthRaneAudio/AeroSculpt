@@ -29,7 +29,9 @@ Content-only: no C++ required
 Fully Blueprint editable and extensible
 
 Made with love!
+
 By: Parth Rane
+
 Sound Designer | Technical Sound Designer | Audio Nerd
 
 Contact: parthrane1141@gmail.com
